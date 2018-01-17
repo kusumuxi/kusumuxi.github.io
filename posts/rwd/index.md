@@ -5,10 +5,10 @@ date: 2018-1-03T23:11:36-04:00
 modified:
 excerpt: "学习笔记"
 tags: []
-feature: 控分大佬.jpg
+feature: 守望先锋天使（网页设计笔记）.jpg
 ---
 
-在此留下我在Web的学习途中收集到的信息
+记录了我在学习网页设计时做的笔记和心得
 
 <div class="tiles">
 {% for post in site.categories.rwd %}

@@ -6,7 +6,7 @@ modified:
 excerpt: "学习笔记"
 tags: []
 image: 
-  feature: 控分大佬.jpg
+  feature: 幼女恶魔军官（学习笔记区）.jpg
   teaser:
 ---
 

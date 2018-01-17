@@ -6,11 +6,11 @@ modified:
 excerpt: "学习笔记"
 tags: []
 image: 
-  feature: earth.jpg
+  feature: 偶像大师-真哥（可视化笔记）.jpg
   teaser:
 ---
 
-在此留下我在可视化学习途中收集到的信息
+记录我在学习可视化时的收获和发现
 
 <div class="tiles">
 {% for post in site.categories.infovis %}
