@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: 文章
+  url: /posts/
+  excerpt: "笔记"
+  image: 控分大佬.jpg
+
+- title: Web 作品集
+  url: /portfolio/
+  excerpt: "出来吧！网页设计！"
+  image: 摆头.jpg
+
+- title: 可视化作品
+  url: /infovis/
+  excerpt: "献祭一块肝脏 获得可视化作品x1"
+  image: 小埋.gif
