@@ -9,6 +9,12 @@
 body {
 	font-family: $base-font;
 	color: $text-color;
+    background-image: url(https://raw.githubusercontent.com/kusumuxi/kusumuxi.github.io/master/images/sakura.jpg);			
+    background-position: center center;		
+    background-repeat: no-repeat;		
+    background-attachment: fixed;		
+    background-size:cover;
+    background-color: $white;    
 	@include font-size(16);
 }
 
