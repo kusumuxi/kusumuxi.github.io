@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "一座墓碑立起来了"
 ---
 
 <div class="tiles">
