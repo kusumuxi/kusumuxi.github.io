@@ -6,8 +6,8 @@
    Typography variables
    ========================================================================== */
 
-$base-font                   	: YouYuan,Times,"Times New Roman",serif;
-$heading-font                	: LiSu,"Segoe UI",LiSu,sans-serif;
+$base-font                   	: YouYuan,LiSu,"Times New Roman",serif;
+$heading-font                	: "Helvetica Neue","Segoe UI",Arial,sans-serif;
 $caption-font                	: $base-font;
 $code-font                   	: monospace;
 $alt-font                    	: $heading-font;
