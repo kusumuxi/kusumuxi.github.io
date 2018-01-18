@@ -64,12 +64,12 @@
 				position: absolute;
 				top: 0;
 				left: 0;
-				height: 3px;
+				height: 5px;
 				@include transition(width 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55));
 			}
 			&:before {
 				width: 100%;
-				background: #9AFF9A;
+				background: transparent;
 			}
 			&:after {
 				width: 0;
